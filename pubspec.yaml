@@ -1,0 +1,9 @@
+name: frest_bootstrap
+version: 0.0.1
+author: Guyren G Howe
+homepage: https://github.com/gisborne/frest_bootstrap
+environment: 
+  sdk: '< 3.0.0'
+dependencies:
+  frest_base: 
+    path: ../frest_base
